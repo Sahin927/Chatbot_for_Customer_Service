@@ -1,0 +1,6 @@
+# For fuzzy matching (optional)
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.0
+
+# For more advanced NLP (optional)
+spacy==3.6.0
